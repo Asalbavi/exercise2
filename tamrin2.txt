@@ -1,0 +1,6 @@
+name="asalbavi"
+ascii_result=[ord(char) for char in name]
+
+print(ascii_result)
+
+[97, 115, 97, 108, 98, 97, 118, 105]
